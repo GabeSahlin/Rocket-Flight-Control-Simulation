@@ -22,8 +22,8 @@ The simulation tracks:
 
 The coordinate system is defined such that:
 
-* Positive $ x $ points horizontally to the right
-* Positive $ y $ points upward
+* Positive x points horizontally to the right
+* Positive y points upward
 * Gravity acts in the negative $ y $ direction
 * $ \theta = 0^\circ $ corresponds to a vertically oriented rocket
 * Positive $\theta $ is directed in the clockwise direction
@@ -111,10 +111,10 @@ $$
 
 where:
 
-* $ ρ $ = air density
+* ρ = air density
 * $ C_d $ = drag coefficient
-* $ A $ = cross-sectional area
-* $ v $ = vehicle velocity
+* A = cross-sectional area
+* v = vehicle velocity
 
 And the cross-sectional area is approximated by:
 
