@@ -16,9 +16,9 @@ The rocket is modeled as a rigid body operating in two dimensions.
 
 The simulation tracks:
 
-* Horizontal position (x)
-* Vertical position (y)
-* pitch angle ($\theta $)
+- Horizontal position ($ x $)
+- Vertical position ($ y $)
+- pitch angle ($\theta $)
 
 The coordinate system is defined such that:
 
