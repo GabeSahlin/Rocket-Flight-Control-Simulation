@@ -18,15 +18,15 @@ The simulation tracks:
 
 - Horizontal position (x)
 - Vertical position (y)
-- pitch angle ($\theta $)
+- pitch angle (θ)
 
 The coordinate system is defined such that:
 
 * Positive x points horizontally to the right
 * Positive y points upward
 * Gravity acts in the negative y direction
-* $ \theta = $ 0° corresponds to a vertically oriented rocket
-* Positive $ \theta $ is directed in the clockwise direction
+* θ = 0° corresponds to a vertically oriented rocket
+* Positive θ is directed in the clockwise direction
 
 ## Assumptions
 
