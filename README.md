@@ -1,4 +1,4 @@
-# Rocket Dynamics and PI Attitude Control Simulation
+# Rocket Dynamics and PI Pitch Angle Control Simulation
 
 A MATLAB and Simulink project focused on modeling and controlling a two-dimensional rocket using rigid-body dynamics, aerodynamic drag, and closed-loop PI control.
 
@@ -148,7 +148,7 @@ and:
 - $\theta(t)$ is the current pitch angle
 
 
-The controller continuously adjusts the thrust command to drive the rocket toward the desired attitude reference.
+The controller continuously adjusts the thrust command to drive the rocket toward the desired angle reference.
 
 ### Controller Parameters
 
